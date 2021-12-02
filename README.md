@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact" alt="gabriel-arrvda" />
- </p>
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical)
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&&icon_color=fff&count_private=true">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+</p>
+<br>
+<p>
+  <a href="https://github.com/gabriel-arrvda/biblioteca-tcc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="gabriel-arrvda" />
+  </a>
+</p>
