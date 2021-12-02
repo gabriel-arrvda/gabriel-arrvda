@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br>
-
 ## Stats
 <div align="left">
   <a href="https://github.com/gabriel-arrvda">
