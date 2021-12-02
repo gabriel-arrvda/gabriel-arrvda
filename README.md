@@ -12,16 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
-</p>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
-</p>
-<br>
-<p>
+## Highlights
+<div align="left">
   <a href="https://github.com/gabriel-arrvda/biblioteca-tcc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="gabriel-arrvda" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="gabriel-arrvda" />
   </a>
-</p>
+</div>
+
+<br>
+
+## Stats
+<div align="left">
+  <a href="https://github.com/gabriel-arrvda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+</div>
