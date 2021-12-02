@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 😄 My website: https://savio.works/
 - ⚡ Fun fact: I'm comming to teen
 - 
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical2)
