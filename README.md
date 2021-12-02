@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gabriel-arrvda/gabriel-arrvda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical2)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact" alt="gabriel-arrvda" />
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical&layout=compact)
