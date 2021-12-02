@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact">
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact" alt="gabriel-arrvda" />
+ </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&theme=radical&layout=compact" alt="gabriel-arrvda" />
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical&layout=compact)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&theme=radical)
