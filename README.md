@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ## Others
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/vgabriel-arrvda/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/gabriel-arrvda/count.svg">
 </div>
