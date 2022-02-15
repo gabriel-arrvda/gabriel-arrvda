@@ -25,3 +25,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
+  
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/vgabriel-arrvda/count.svg">
+</div>
