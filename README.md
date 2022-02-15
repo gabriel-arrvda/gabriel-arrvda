@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">:round_pushpin: Profile views</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/gabriel-arrvda/count.svg">
+</div>
+
 ## Highlights
 <div align="left">
   <a href="https://github.com/gabriel-arrvda/biblioteca-tcc">
@@ -29,7 +34,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabriel-arrvda&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 ## Others
-<p align="center">:round_pushpin: Profile views</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/gabriel-arrvda/count.svg">
-</div>
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hey_luckys&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hey_luckys&redirect=true)
+
