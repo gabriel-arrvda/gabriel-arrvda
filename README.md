@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabriel-arrvda&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
 ## Others
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
