@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-arrvda&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
+    
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabriel-arrvda&color=fff&line=fff&point=fff&area_color=21D4FD&bg_color=B721FF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabriel-arrvda&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
