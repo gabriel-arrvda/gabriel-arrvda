@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 </div>
     
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabriel-arrvda&color=fff&line=fff&point=fff&area_color=21D4FD&bg_color=B721FF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-## Others
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hey_luckys&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hey_luckys&redirect=true)
+ 
 
