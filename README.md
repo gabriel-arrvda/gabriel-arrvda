@@ -22,7 +22,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/gabriel-arrvda/biblioteca-tcc">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="gabriel-arrvda" />
   </a>
+    <a href="https://github.com/gabriel-arrvda/tomato-detection">
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-arrvda&repo=tomato-detection&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="gabriel-arrvda" />
+      </a>
 </div>
+
 
 ## Stats
 <div align="left">
